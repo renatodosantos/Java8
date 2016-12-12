@@ -1,0 +1,12 @@
+bin
+/deploy/*.zip
+*.log
+out/
+.settings/*
+*.eml
+*.iml
+*.idea
+*.txt
+*.MF
+email*.txt
+email*.xml
